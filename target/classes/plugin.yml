@@ -1,0 +1,8 @@
+name: SCP
+version: 1.0-SNAPSHOT
+main: com.scp.plugin.scp.SCP
+commands:
+  scp:
+    permission: scp.commands.password
+  vpncheck:
+    permission: scp.commands.vpncheck

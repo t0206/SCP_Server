@@ -1,0 +1,15 @@
+com\scp\plugin\scp\events\JoinEvent.class
+com\scp\plugin\scp\utils\LoginManager.class
+com\scp\plugin\scp\utils\SocketSender.class
+com\scp\plugin\scp\utils\LogManager.class
+com\scp\plugin\scp\commands\PasswordChange.class
+com\scp\plugin\scp\utils\SendChat.class
+com\scp\plugin\scp\utils\ServerUpdate.class
+com\scp\plugin\scp\SCP.class
+com\scp\plugin\scp\commands\VpnCheckCmd.class
+com\scp\plugin\scp\utils\PropertyManager.class
+com\scp\plugin\scp\utils\VpnPunish.class
+com\scp\plugin\scp\utils\VpnBlocker.class
+com\scp\plugin\scp\models\LogText.class
+com\scp\plugin\scp\utils\SendCommands.class
+com\scp\plugin\scp\utils\ConfigManager.class
